@@ -1,5 +1,9 @@
-export default function HelloWorld() {
+export default function ThereYet() {
   return (
-    <div className={"p-4 bg-green-200"}>Hello World</div>
+    <div
+      className={`flex flex-row min-h-screen justify-center items-center text-8xl`}
+    >
+      no
+    </div>
   )
 }
